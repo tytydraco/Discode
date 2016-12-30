@@ -14,6 +14,12 @@ To create a Discode block, use this syntax:
 Discode will automatically convert this to viewable HTML.  
 **DO NOT USE \`\`\`html\`\`\` STYLING**  
 
+# Installation
+Place `Discode.plugin.js` in BetterDiscord's plugin folder.  
+For Windows, `%appdata%\betterdiscord\plugins\`  
+For Mac, `~/Library/Preferences/BetterDiscord/plugins`  
+  
+# Claims
 *I DO NOT OWN ANY CLAIMS TO BetterDiscord*
 
 Developed by **Draco**.
