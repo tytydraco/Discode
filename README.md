@@ -10,7 +10,10 @@ To create a Discode block, use this syntax:
 ...html goes here...
 </html>  
 \`\`\`  
-**DO NOT USE \`\`\`html\`\`\` STYLING**  
-Discode will automatically convert this to viewable HTML.  
   
+Discode will automatically convert this to viewable HTML.  
+**DO NOT USE \`\`\`html\`\`\` STYLING**  
+
 *I DO NOT OWN ANY CLAIMS TO BetterDiscord*
+
+Developed by **Draco**.
