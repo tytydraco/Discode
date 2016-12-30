@@ -6,9 +6,11 @@ Automatically converts HTML code blocks to displayable HTML.
 To create a Discode block, use this syntax:  
 \`\`\`  
 <!DOCTYPE html>  
-<html>  
-...html goes here...  
+<html>
+...html goes here...
 </html>  
 \`\`\`  
 **DO NOT USE \`\`\`html\`\`\` STYLING**  
 Discode will automatically convert this to viewable HTML.  
+  
+*I DO NOT OWN ANY CLAIMS TO BetterDiscord*
