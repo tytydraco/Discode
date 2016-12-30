@@ -19,7 +19,7 @@ Place `Discode.plugin.js` in BetterDiscord's plugin folder.
 For Windows, `%appdata%\betterdiscord\plugins\`  
 For Mac, `~/Library/Preferences/BetterDiscord/plugins`  
   
-# Claims
+# Credits
 *I DO NOT OWN ANY CLAIMS TO BetterDiscord*
 
 Developed by **Draco**.
