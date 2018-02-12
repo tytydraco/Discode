@@ -9,7 +9,7 @@ To create a Discode block, use this syntax:
 <html>
 ...html goes here...
 </html>  
-\`\`\`  
+```  
   
 Discode will automatically convert this to viewable HTML.  
 **DO NOT USE \`\`\`html\`\`\` STYLING**  
