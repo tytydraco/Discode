@@ -6,10 +6,10 @@ Automatically converts HTML code blocks to displayable HTML.
 To create a Discode block, use this syntax:  
 \`\`\`  
 <\!DOCTYPE html>  
-<\html>
+<html>
 ...html goes here...
 <\/html>  
-```  
+\`\`\`  
   
 Discode will automatically convert this to viewable HTML.  
 **DO NOT USE \`\`\`html\`\`\` STYLING**  
